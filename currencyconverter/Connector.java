@@ -41,7 +41,7 @@ public class Connector {
             BufferedReader reader;
             String line;
 
-            URL url = new URL("http://data.fixer.io/api/latest?access_key=70a7dd2086011239821e31e45fd1eea5");
+            URL url = new URL("write your api key here - you can get one free from fixir:)");
 
             connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
