@@ -1,11 +1,6 @@
 
 package currencyconverter;
 
-/**
- *
- * @author Abdullah
- */
-
 import java.awt.Color;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
