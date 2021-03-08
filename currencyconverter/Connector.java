@@ -1,11 +1,6 @@
 
 package currencyconverter;
 
-/**
- *
- * @author Abdullah
- */
-
 import java.awt.Image;
 import java.io.BufferedReader;
 import java.io.IOException;
