@@ -2,7 +2,7 @@
 Currency rates  converter using online currency API
 
 
-#Demo
+# Demo
 --
 <img src="./res/demo.gif"></img>
 
@@ -11,8 +11,8 @@ Currency rates  converter using online currency API
 ```
 1. Clone full project
 2. open project in an IDE like netbeans
-3. write your API key at mentioned place in conecter.java
-4. internet conection is mondatory
+3. write your API key at the mentioned place in Conecter.java
+4. internet connection is mandatory
 
 ```
 ---
